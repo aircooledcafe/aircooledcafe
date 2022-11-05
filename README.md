@@ -8,9 +8,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have two amazing dogs Penny and Amy.
 
-![Amy](images/amy.jpg)
-![penny](images/penny.jpg)
+![dogs](images/dogs.png)
 
-<img src="/images/amy.jpg" max-width="30%">
 [twitter]: https://twitter.com/aircooledcafe
 [mastodon]: https://infosec.exchange/@aircooledcafe
