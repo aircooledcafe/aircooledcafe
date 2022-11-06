@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning about CYber Security and studying a Computer Science with Cyber Securyt Batchelors Degree as the Open University. While also learning some Python and Javascript.
 - 📫 How to reach me: [Mastodon][mastodon], [twitter][twitter] or [my website][securelee]
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have two amazing dogs Penny and Amy.
+- ⚡ Fun fact: I have two amazing dogs Amy and Penny.
 
 ![dogs](images/dogs.png)
 
