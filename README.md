@@ -1,5 +1,5 @@
-<link rel="me" href="https://infosec.exchange/@aircooledcafe">
-<a rel="me" href="https://infosec.exchange/@aircooledcafe"></a>
+<link rel="me" class="me" ref="https://infosec.exchange/@aircooledcafe">
+<a rel="me" class="me" href="https://infosec.exchange/@aircooledcafe"></a>
 
 ### Hi there 👋
 
