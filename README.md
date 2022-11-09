@@ -1,4 +1,4 @@
-<link rel="me" href="https://infosec.exchange/@aircooledcafe">
+{<link rel="me" href="https://infosec.exchange/@aircooledcafe">}
 <a rel="me" href="https://infosec.exchange/@aircooledcafe"></a>
 
 ### Hi there 👋
