@@ -12,5 +12,5 @@
 ![dogs](images/dogs.png)
 
 [twitter]: https://twitter.com/aircooledcafe
-[mastodon]: https://infosec.exchange/@aircooledcafe {rel="me"}
+[mastodon]: https://infosec.exchange/@aircooledcafe 
 [securelee]: https://securelee.uk
