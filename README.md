@@ -1,5 +1,4 @@
-<link rel="me" class="me" ref="https://infosec.exchange/@aircooledcafe">
-<a rel="me" class="me" href="https://infosec.exchange/@aircooledcafe"></a>
+{% include links.html%}
 
 ### Hi there 👋
 
