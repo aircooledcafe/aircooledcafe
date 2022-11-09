@@ -1,4 +1,4 @@
-{% include links.html%}
+{% include_relative links/links.html %}
 
 ### Hi there 👋
 
