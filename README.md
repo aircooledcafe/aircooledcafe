@@ -1,5 +1,3 @@
-{% include_relative links/links.html %}
-
 ### Hi there 👋
 
 - 🔭 I’m currently looking for work.
