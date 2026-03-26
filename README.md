@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🏰 I’m defend castles in the clouds.
+- 🏰 I defend castles in the clouds.
 - 🖥 Interested in self hosting, python dev, cybersecurity.
 - 📫 How to reach me: [Mastodon][mastodon], [twitter][twitter] or [my website][securelee]
 - 😄 Pronouns: He/Him
